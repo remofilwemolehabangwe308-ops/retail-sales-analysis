@@ -25,7 +25,7 @@ The original dataset contained 600 rows. During the data-cleaning process, 4 row
 ### Requirements
 The project requires Python together with the packages listed in `requirements.txt`.
 Install the required packages by running:
-```bash
+
 pip install -r requirements.txt
 
 ## Recommendation
